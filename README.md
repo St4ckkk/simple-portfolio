@@ -1,2 +1,2 @@
 # Portfolio
-Hi There, this is my simple portfolio.
+Personal Portfolio (not so very responsive)
